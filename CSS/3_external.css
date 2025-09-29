@@ -1,0 +1,14 @@
+h1{
+    background-color: coral;
+    color:aquamarine;
+}
+.text{
+        border: 5px solid gray;
+        color: green;
+    }
+
+#p_tag{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:black;
+    background-color: bisque;
+}
